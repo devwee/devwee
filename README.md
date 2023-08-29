@@ -2,7 +2,7 @@
 Olá, sou um programador web e desenvolvedor de softwares apaixonado por criar soluções elegantes e eficientes. <br>Meu foco principal é construir aplicações web modernas, escaláveis e de alta qualidade, utilizando as mais recentes tecnologias e frameworks. Com habilidades em diversas linguagens de programação, incluindo JavaScript, Python, PHP e VB.Net, estou sempre buscando aprender mais e aprimorar minhas habilidades técnicas. <br>Além disso, também valorizo muito o trabalho em equipe, colaboração e a comunicação clara e efetiva para garantir o sucesso dos projetos. Sinta-se à vontade para explorar meus projetos e não hesite em entrar em contato comigo para conversarmos sobre possíveis colaborações.
 
 ## 🌐 Redes sociais:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/wee#7852) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/wee#7852) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/igormaarqs)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/igormarqs)
 
