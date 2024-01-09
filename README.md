@@ -3,7 +3,6 @@ Olá, sou um programador web e desenvolvedor de softwares apaixonado por criar s
 
 ## 🌐 Redes sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/wee#7852) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/igormaarqs)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/igormarqs)
 
 # 💻 Tecnologias:
